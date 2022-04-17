@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on project on FinanceInfo that give the overview of all investment ways like crypto, mutual , bonds and many more in one application
+- 🔭 I’m currently working on project on infopage that give the overview of all investment ways like crypto, mutual , bonds and many more in one application
 -      anyone intrested feel free to contact. 
 - 🌱 I’m currently learning ML and AI, Django and React native and many more
 - 👯 I’m looking to collaborate on Open Source
